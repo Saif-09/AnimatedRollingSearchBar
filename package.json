@@ -1,6 +1,6 @@
 {
   "name": "react-native-rolling-search-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customizable Animated Search Bar for React Native",
   "main": "index.js",
   "scripts": {
