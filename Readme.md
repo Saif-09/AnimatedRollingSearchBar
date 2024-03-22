@@ -51,7 +51,7 @@ import RollingSearchBar from 'react-native-rolling-search-bar';
 | animationDuration  | number    | 500          | Animation speed (in milliseconds)                 |
 | iconColor          | string    | (Inherited)  | Color of the search icon                          |
 | fontSize           | number    | 14           | Font size of the text                             |
-| fontWeight         | string    | '400'        | Font weight of the text                           |
+| icWidth         | number    | 20        | Width of the search icon                           |
 
 ## License
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Saif-09/react-native-rolling-search-bar.git"
+    "url": "git+https://github.com/Saif-09/AnimatedRollingSearchBar.git"
   },
   "keywords": [
     "react-native"
@@ -21,9 +21,9 @@
     "react-native-svg": "^14.1.0"
   },
   "bugs": {
-    "url": "https://github.com/Saif-09/react-native-rolling-search-bar/issues"
+    "url": "https://github.com/Saif-09/AnimatedRollingSearchBar/issues"
   },
-  "homepage": "https://github.com/Saif-09/react-native-rolling-search-bar#readme",
+  "homepage": "https://github.com/Saif-09/AnimatedRollingSearchBar#readme",
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.73.2",
