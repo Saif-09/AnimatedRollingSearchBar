@@ -1,0 +1,36 @@
+{
+  "name": "react-native-rolling-search-bar",
+  "version": "1.0.0",
+  "description": "Customizable Animated Search Bar for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saif-09/react-native-rolling-search-bar.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Saif",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-svg": "^14.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Saif-09/react-native-rolling-search-bar/issues"
+  },
+  "homepage": "https://github.com/Saif-09/react-native-rolling-search-bar#readme",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-svg": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.67",
+    "@types/react-dom": "^18.2.22"
+  }
+}
