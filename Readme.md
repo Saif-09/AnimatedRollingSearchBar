@@ -57,5 +57,6 @@ import AnimatedSearchBar from 'your-animated-searchbar-package';
 
 This project is licensed under the MIT License.
 
+## Demo
 
-
+![](https://github.com/Saif-09/AnimatedRollingSearchBar/blob/master/assets/SearchBarGif.gif)
