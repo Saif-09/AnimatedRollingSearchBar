@@ -20,15 +20,15 @@ Add a dynamic and engaging search experience to your React Native app with this 
 ## Installation
 
 ```bash
-npm install your-animated-searchbar-package
+npm install react-native-rolling-search-bar
 ```
     
 ## Usage/Examples
 
 ```javascript
-import AnimatedSearchBar from 'your-animated-searchbar-package';
+import RollingSearchBar from 'react-native-rolling-search-bar';
 
-<AnimatedSearchBar 
+<RollingSearchBar 
     backgroundColor="#F0F0F0"
     textColor="#333333"
     animatedTextColor="#007AFF"
